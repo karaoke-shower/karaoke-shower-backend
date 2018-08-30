@@ -1,0 +1,648 @@
+{
+  "songs": [
+    {
+        "id": 0,
+        "title": "El chivo ciclista",
+        "artist": "Cri-Cri",
+        "author": "Francisco Gabilondo Soler",
+        "album": "Cri-Crí el Grillito Cantor",
+        "genre": "Cri Cri",
+        
+        "audio_url": "http://www.cri-cri.net/mp3/ca038.mp3",
+        "lyrics": [
+            
+            [        
+                [
+                    [
+                        {
+                            "text": "E",
+                            "time": "1000"
+                        },
+                        {
+                            "text": "ra",
+                            "time": "2000"
+                        }
+                    ],
+                    [
+                        {
+                            "text": "un",
+                            "time": "3000"
+                        }
+                    ],
+                    [
+                        {
+                            "text": "chi",
+                            "time": "4000"
+                        },
+                        {
+                            "text": "vo",
+                            "time": "5000"
+                        }
+                    ],
+                    [
+                        {
+                            "text": "en",
+                            "time": "6000"
+                        }
+                    ],
+                    [
+                        {
+                            "text": "bi",
+                            "time": "7000"
+                        },
+                        {
+                            "text": "ci",
+                            "time": "8000"
+                        },
+                        {
+                            "text": "cle",
+                            "time": "9000"
+                        },
+                        {
+                            "text": "ta",
+                            "time": "10000"
+                        }
+                    ],
+                    [
+                        {
+                            "text": "sin",
+                            "time": "11000"
+                        }
+                    ],
+                    [
+                        {
+                            "text": "sa",
+                            "time": "12000"
+                        },
+                        {
+                            "text": "ber",
+                            "time": "13000"
+                        }
+                    ],
+                    [
+                        {
+                            "text": "an",
+                            "time": "14000"
+                        },
+                        {
+                            "text": "dar",
+                            "time": "15000"					
+                        },
+                        {
+                            "text": "",
+                            "time": "16000"				
+                        }
+                    ]
+                ],
+                
+                [
+                    [
+                        {
+                            "text": "con",
+                            "time": "19000"
+                        },
+                        {
+                            "text": "tra",
+                            "time": "20000"
+                        }
+                    ],
+                    [
+                        {
+                            "text": "la",
+                            "time": "21000"
+                        }
+                    ],
+                    [
+                        {
+                            "text": "ban",
+                            "time": "22000"
+                        },
+                        {
+                            "text": "que",
+                            "time": "23000"
+                        },
+                        {
+                            "text": "ta",
+                            "time": "24000"
+                        }
+                    ],
+                    [
+                        {
+                            "text": "el",
+                            "time": "25000"
+                        }
+                    ],
+                    [
+                        {
+                            "text": "ma",
+                            "time": "26000"
+                        },
+                        {
+                            "text": "nu",
+                            "time": "27000"
+                        },
+                        {
+                            "text": "brio",
+                            "time": "28000"
+                        }
+                    ],
+                    [
+                        {
+                            "text": "fue",
+                            "time": "29000"
+                        }
+                    ],
+                    [
+                        {
+                            "text": "a",
+                            "time": "30000"
+                        }
+                    ],
+                    [
+                        {
+                            "text": "cla",
+                            "time": "31000"
+                        },
+                        {
+                            "text": "var",
+                            "time": "32000"
+                        },
+                        {
+                            "text": "",
+                            "time": "33000"
+                        }
+                    ]
+                    
+                ],
+                
+                [
+                    
+                    
+                    [
+                        {
+                            "text": "¡que",
+                            "time": "36000"
+                        }
+                    ],
+                    [
+                        {
+                            "text": "se",
+                            "time": "37000"
+                        }
+                    ],
+                    [
+                        {
+                            "text": "cae!",
+                            "time": "38000"
+                        }
+                    ],
+                    [
+                        {
+                            "text": "¡que",
+                            "time": "39000"
+                        }
+                    ],
+                    [
+                        {
+                            "text": "se",
+                            "time": "40000"
+                        }
+                    ],
+                    [
+                        {
+                            "text": "cae!",
+                            "time": "41000"
+                        }
+                    ],
+                    [
+                        {
+                            "text": "¡que",
+                            "time": "42000"
+                        }
+                    ],
+                    [
+                        {
+                            "text": "se",
+                            "time": "43000"
+                        }
+                    ],
+                    [
+                        {
+                            "text": "cae!",
+                            "time": "44000"
+                        }
+                    ],
+                    [
+                        {
+                            "text": "¡que",
+                            "time": "45000"
+                        }
+                    ],
+                    [
+                        {
+                            "text": "se",
+                            "time": "46000"
+                        }
+                    ],
+                    [
+                        {
+                            "text": "cae!", 
+                            "time": "47000"
+                        },
+                        {
+                            "text": "", 
+                            "time": "48000"
+                        }
+                    ]
+                    
+                    
+                ],
+                
+                [
+                    [
+                        {
+                            "text": "¡to",
+                            "time": "51000"
+                        },
+                        {
+                            "text": "do",
+                            "time": "52000"
+                        }
+                    ],
+                    [
+                        {
+                            "text": "es",
+                            "time": "53000"
+                        }
+                    ],
+                    [
+                        {
+                            "text": "cues",
+                            "time": "54000"
+                        },
+                        {
+                            "text": "tión",
+                            "time": "55000"
+                        }
+                    ],
+                    [
+                        {
+                            "text": "de",
+                            "time": "56000"
+                        }
+                    ],
+                    [
+                        {
+                            "text": "prac",
+                            "time": "57000"
+                        },
+                        {
+                            "text": "ti",
+                            "time": "58000"
+                        },
+                        {
+                            "text": "car!.",
+                            "time": "59000"
+                        },
+                        {
+                            "text": "",
+                            "time": "60000"
+                        }
+                    ]
+                    
+                ]
+                
+                
+            ],
+            
+            
+            [
+                [
+                    
+                    [
+                        {
+                            "text": "I",
+                            "time": "63000"
+                        },
+                        {
+                            "text": "ba",
+                            "time": "64000"
+                        }
+                    ],
+                    [
+                        {
+                            "text": "el",
+                            "time": "65000"
+                        }
+                    ],
+                    [
+                        {
+                            "text": "chi",
+                            "time": "66000"
+                        },
+                        {
+                            "text": "vo",
+                            "time": "67000"
+                        }
+                    ],
+                    [
+                        {
+                            "text": "pio",
+                            "time": "68000"
+                        },
+                        {
+                            "text": "cha",
+                            "time": "69000"
+                        }
+                    ],
+                    [
+                        {
+                            "text": "en",
+                            "time": "70000"
+                        }
+                    ],
+                    [
+                        {
+                            "text": "bi",
+                            "time": "71000"
+                        },
+                        {
+                            "text": "ci",
+                            "time": "72000"
+                        },
+                        {
+                            "text": "cle",
+                            "time": "73000"
+                        },
+                        {
+                            "text": "ta",
+                            "time": "74000"
+                        }
+                    ],
+                    [
+                        {
+                            "text": "de",
+                            "time": "75000"
+                        }
+                    ],
+                    [
+                        {
+                            "text": "al",
+                            "time": "76000"
+                        },
+                        {
+                            "text": "qui",
+                            "time": "77000"
+                        },
+                        {
+                            "text": "ler",
+                            "time": "78000"
+                        },
+                        {
+                            "text": "",
+                            "time": "79000"
+                        }
+                    ]
+                    
+                ],
+                
+                [
+                    [
+                        {
+                            "text": "que",
+                            "time": "82000"
+                        }
+                    ],
+                    [
+                        {
+                            "text": "va",
+                            "time": "83000"
+                        },
+                        {
+                            "text": "lor",
+                            "time": "84000"
+                        }
+                    ],
+                    [
+                        {
+                            "text": "de",
+                            "time": "85000"
+                        },
+                        {
+                            "text": "rro",
+                            "time": "86000"
+                        },
+                        {
+                            "text": "cha",
+                            "time": "87000"
+                        }
+                    ],
+                    [
+                        {
+                            "text": "en",
+                            "time": "88000"
+                        }
+                    ],
+                    [
+                        {
+                            "text": "sus",
+                            "time": "89000"
+                        }
+                    ],
+                    [
+                        {
+                            "text": "an",
+                            "time": "90000"
+                        },
+                        {
+                            "text": "sias",
+                            "time": "91000"
+                        }
+                    ],
+                    [
+                        {
+                            "text": "de",
+                            "time": "92000"
+                        }
+                    ],
+                    [
+                        {
+                            "text": "a",
+                            "time": "93000"
+                        },
+                        {
+                            "text": "pren",
+                            "time": "94000"
+                        },
+                        {
+                            "text": "der",
+                            "time": "95000"
+                        },
+                        {
+                            "text": "",
+                            "time": "96000"
+                        }
+                    ]
+                ],
+                
+                [
+                    [
+                        {
+                            "text": "¡que",
+                            "time": "99000"
+                        }
+                    ],
+                    [
+                        {
+                            "text": "se",
+                            "time": "100000"
+                        }
+                    ],
+                    [
+                        {
+                            "text": "cae!",
+                            "time": "101000"
+                        }
+                    ],
+                    [
+                        {
+                            "text": "¡que",
+                            "time": "102000"
+                        }
+                    ],
+                    [
+                        {
+                            "text": "se",
+                            "time": "103000"
+                        }
+                    ],
+                    [
+                        {
+                            "text": "cae!",
+                            "time": "104000"
+                        }
+                    ],
+                    [
+                        {
+                            "text": "!que",
+                            "time": "105000"
+                        }
+                    ],
+                    [
+                        {
+                            "text": "se",
+                            "time": "106000"
+                        }
+                    ],
+                    [
+                        {
+                            "text": "cae!!",
+                            "time": "107000"
+                        }
+                    ],
+                    [
+                        {
+                            "text": "que",
+                            "time": "108000"
+                        }
+                    ],
+                    [
+                        {
+                            "text": "se",
+                            "time": "109000"
+                        }
+                    ],
+                    [
+                        {
+                            "text": "cae!",
+                            "time": "110000"
+                        },
+                        {
+                            "text": "",
+                            "time": "111000"
+                        }
+                    ]
+                ],
+                
+                [
+                    [
+                        {
+                            "text": "¡co",
+                            "time": "114000"
+                        },
+                        {
+                            "text": "mo",
+                            "time": "115000"
+                        }
+                    ],
+                    [
+                        {
+                            "text": "trein",
+                            "time": "116000"
+                        },
+                        {
+                            "text": "ta",
+                            "time": "117000"
+                        }
+                    ],
+                    [
+                        {
+                            "text": "ja",
+                            "time": "118000"
+                        },
+                        {
+                            "text": "rros",
+                            "time": "119000"
+                        }
+                    ],
+                    [
+                        {
+                            "text": "fue",
+                            "time": "120000"
+                        }
+                    ],
+                    [
+                        {
+                            "text": "a",
+                            "time": "121000"
+                        }
+                    ],
+                    [
+                        {
+                            "text": "rom",
+                            "time": "122000"
+                        },
+                        {
+                            "text": "per!",
+                            "time": "123000"
+                        },
+                        {
+                            "text": "",
+                            "time": "124000"
+                        }
+                    ]
+                ]
+            ]
+            
+            
+        ]
+        
+    },
+    
+    {
+      "id": 1,
+      "title": "El chorrito",
+      "artist": 0
+    }
+  ],
+  "artists": [
+    {
+      "id": 0,
+      "name": "Cri-Cri"
+    },
+    {
+      "name": "Chabelo",
+      "id": 2
+    }
+  ] 
+}
